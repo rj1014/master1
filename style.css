@@ -1,0 +1,56 @@
+body{
+    background-color: powderblue;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    letter-spacing: 3px;
+    font-size: 55;
+    color:#173f5f;
+}
+.profile{
+    background-image: url('Sea.jpg');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image {
+    width: 20%;
+    border-radius: 100%;
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+div{
+    font-size: 30px;
+}
+.link{
+    border:1px solid #20639b;
+    background-color:powderblue;
+}
+nav{
+    background-color:rgb(93, 164, 173);
+    float: right;
+    border: 5px;
+    padding: 10px;
+    margin: 10px;
+    color: #20639b;}
+.row{
+        margin-left: 30%;
+        margin-top: 50px;
+}
+.col-6 {
+       width: 50%;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    margin:0;
+}
+a:hover{
+    background-color: powderblue;
+    
+
+}
